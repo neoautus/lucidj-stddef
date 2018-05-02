@@ -14,7 +14,7 @@
  * the License.
  */
 
-package api.lucidj.stddef;
+package org.lucidj.api.stddef;
 
 public interface Aggregate
 {

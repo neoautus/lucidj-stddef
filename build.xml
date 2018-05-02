@@ -23,8 +23,8 @@
         <!-- Default for deploy -->
         <property name="deploy.flag" value="false"/>
 
-        <build.module dir="stddef" symbolicName="api.lucidj.stddef" version="1.0.0"
-            exports="api.lucidj.stddef;version=1.0.0" deploy="${deploy.flag}"/>
+        <build.module dir="stddef" symbolicName="org.lucidj.api.stddef" version="1.0.0"
+            exports="org.lucidj.api.stddef;version=1.0.0" deploy="${deploy.flag}"/>
 
     </target>
 
